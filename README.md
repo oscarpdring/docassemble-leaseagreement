@@ -20,6 +20,7 @@ A DocAssemble interview that generates customizable lease agreements with option
   - Food & Beverage Use
   - Broker Agreement
   - Short Form Lease
+  - Insurance Waiver
 
 ## Input Fields
 - Lease terms and dates

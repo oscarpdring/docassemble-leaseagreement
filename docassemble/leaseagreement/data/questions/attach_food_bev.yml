@@ -1,7 +1,7 @@
 ---
 attachment:
- name: FOOD_AND_BEVERAGE
- filename: FOOD_AND_BEVERAGE
+ name: Food And Beverage Document
+ filename: Food And Beverage Document
  docx template file: FOOD_AND_BEVERAGE_USE_RIDER_1.docx
  valid formats:
    - pdf

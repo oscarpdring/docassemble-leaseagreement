@@ -1,7 +1,7 @@
 ---
 attachment:
- name: 111_NCP
- filename: ncp_111_lease
+ name: LEASE - 111 North Central Park Ave 
+ filename: LEASE - 111 North Central Park Ave 
  docx template file: 111NCP_lease_1_2.docx
  valid formats:
    - pdf

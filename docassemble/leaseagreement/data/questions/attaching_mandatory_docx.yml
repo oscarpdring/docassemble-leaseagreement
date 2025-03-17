@@ -9,7 +9,7 @@ attachment code: |
 ---
 attachment:
  name: Lease Agreement
- filename: lease_agreement
+ filename: Lease Agreement
  docx template file: Lease_Agreement_3_1.docx
  valid formats:
    - pdf
@@ -19,7 +19,7 @@ attachment:
 ---
 attachment:
  name: Good Guy Guarantee
- filename: good_guy_guarantee
+ filename: Good Guy Guarantee
  docx template file: Good_Guy_Guarantee.docx
  valid formats:
    - pdf

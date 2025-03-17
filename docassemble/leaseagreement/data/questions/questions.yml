@@ -74,6 +74,11 @@ fields:
    datatype: date
  - Guarantor Names (one per line): guarantors_name
    datatype: area
+ - Would you like the Insurance Waiver document?: insurance_waiver_doc_yn
+   datatype: yesnoradio
+   help: |
+     PLEASE SELECT THIS WAIVER IF THERE IS ONLY 1X EMPLOYEE FOR THE TENANT. Select YES if you would like the Insurance waiver to generate.
+     
  - Is this Lease for 111 North Central Park Ave?: ncp_111_yn
    datatype: yesnoradio
    help: |
@@ -86,6 +91,7 @@ fields:
    datatype: yesnoradio
    help: |
      Select YES if you would like the short-form lease to generate. 
+
  - Floor Plan: floor_plan
    datatype: file
    help: |

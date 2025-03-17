@@ -1,0 +1,11 @@
+---
+attachment:
+ name: Insurance Waiver
+ filename: Insurance Waiver
+ docx template file: COMMERCIAL_PROPERTY_LIABILITY_WAIVER_AND_RELEASE_AGREEMENT.docx
+ valid formats:
+   - pdf
+   - docx
+ variable name: insurance_waiver_doc
+
+---
